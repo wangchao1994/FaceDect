@@ -59,7 +59,7 @@ public class DectorActivity extends AppCompatActivity implements View.OnClickLis
     }
 
     /**
-     * 初始化人脸级联分离器
+     * 初始化人脸级联分类器
      * 必须先初始化
      * */
     private void initClassifier() {
